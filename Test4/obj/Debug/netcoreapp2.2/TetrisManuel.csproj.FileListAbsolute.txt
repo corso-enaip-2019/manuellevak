@@ -1,0 +1,14 @@
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\bin\Debug\netcoreapp2.2\TetrisManuel.deps.json
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\bin\Debug\netcoreapp2.2\TetrisManuel.runtimeconfig.json
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\bin\Debug\netcoreapp2.2\TetrisManuel.runtimeconfig.dev.json
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\bin\Debug\netcoreapp2.2\TetrisManuel.dll
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\bin\Debug\netcoreapp2.2\TetrisManuel.pdb
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.csprojAssemblyReference.cache
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.csproj.CoreCompileInputs.cache
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.RazorAssemblyInfo.cache
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.RazorAssemblyInfo.cs
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.AssemblyInfoInputs.cache
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.AssemblyInfo.cs
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.RazorTargetAssemblyInfo.cache
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.dll
+C:\Users\triprog-9\source\repos\prog9\TetrisManuel\obj\Debug\netcoreapp2.2\TetrisManuel.pdb
